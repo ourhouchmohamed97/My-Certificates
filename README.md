@@ -4,7 +4,7 @@ A personal digital portfolio showcasing my professional certificates, academic a
 
 ## 🌐 Live Demo
 
-🚀 **Explore the website:** [Certificate Exhibition](YOUR_VERCEL_URL)
+🚀 **Explore the website:** [Certificate Exhibition](https://my-certificates-seven.vercel.app/)
 
 ## 📖 About
 
@@ -34,8 +34,8 @@ This project represents my learning journey, professional development, and commi
 
 ## 📬 Connect With Me
 
-- **GitHub:** [My GitHub](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+- **GitHub:** [My GitHub](https://github.com/ourhouchmohamed97)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/mohamed-ourhouch-616799293/)
 
 ---
 
